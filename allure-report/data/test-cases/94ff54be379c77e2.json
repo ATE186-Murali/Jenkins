@@ -1,0 +1,92 @@
+{
+  "uid" : "94ff54be379c77e2",
+  "name" : "test_first",
+  "fullName" : "AUTOMATION.21Feb2022.PYTest.Testpy#test_first",
+  "historyId" : "a85db8251e8cba3f78f1fde66b337fe0",
+  "time" : {
+    "start" : 1646800749909,
+    "stop" : 1646800749910,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "test_parent",
+    "time" : {
+      "start" : 1646800749907,
+      "stop" : 1646800749907,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2dd1c5ed23aae0e5",
+      "name" : "stdout",
+      "source" : "2dd1c5ed23aae0e5.txt",
+      "type" : "text/plain",
+      "size" : 23
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "AUTOMATION.21Feb2022"
+  }, {
+    "name" : "suite",
+    "value" : "PYTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testpy"
+  }, {
+    "name" : "host",
+    "value" : "AGL78"
+  }, {
+    "name" : "thread",
+    "value" : "6652-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "AUTOMATION.21Feb2022.PYTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94ff54be379c77e2.json",
+  "parameterValues" : [ ]
+}

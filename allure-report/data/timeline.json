@@ -1,0 +1,85 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "AGL78",
+    "children" : [ {
+      "name" : "28156-MainThread",
+      "children" : [ {
+        "name" : "test_second",
+        "uid" : "4530daed996415aa",
+        "parentUid" : "51057fcd09d8e4eed59fd846ad869335",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646800765479,
+          "stop" : 1646800765479,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_first",
+        "uid" : "a2b9b5b63335b677",
+        "parentUid" : "51057fcd09d8e4eed59fd846ad869335",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646800765475,
+          "stop" : 1646800765475,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "51057fcd09d8e4eed59fd846ad869335"
+    }, {
+      "name" : "6652-MainThread",
+      "children" : [ {
+        "name" : "test_second",
+        "uid" : "31d951681de2e8af",
+        "parentUid" : "ab1e480217d2d514b64726490ba3761f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646800749915,
+          "stop" : 1646800749915,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_first",
+        "uid" : "94ff54be379c77e2",
+        "parentUid" : "ab1e480217d2d514b64726490ba3761f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646800749909,
+          "stop" : 1646800749910,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ab1e480217d2d514b64726490ba3761f"
+    } ],
+    "uid" : "3518f8906a595a8a01364761afec9e64"
+  } ]
+}

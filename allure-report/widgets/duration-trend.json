@@ -1,0 +1,15 @@
+[ {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/Python001/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/Python001/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 6
+  }
+} ]

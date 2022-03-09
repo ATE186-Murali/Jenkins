@@ -1,0 +1,122 @@
+{
+  "uid" : "4530daed996415aa",
+  "name" : "test_second",
+  "fullName" : "AUTOMATION.21Feb2022.PYTest.Testpy#test_second",
+  "historyId" : "729c23cd08176325262bac15e0357070",
+  "time" : {
+    "start" : 1646800765479,
+    "stop" : 1646800765479,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "test_parent",
+    "time" : {
+      "start" : 1646800765473,
+      "stop" : 1646800765473,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9ad1187edda1e2bd",
+      "name" : "stdout",
+      "source" : "9ad1187edda1e2bd.txt",
+      "type" : "text/plain",
+      "size" : 12
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "parentSuite",
+    "value" : "AUTOMATION.21Feb2022"
+  }, {
+    "name" : "suite",
+    "value" : "PYTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testpy"
+  }, {
+    "name" : "host",
+    "value" : "AGL78"
+  }, {
+    "name" : "thread",
+    "value" : "28156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "AUTOMATION.21Feb2022.PYTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "31d951681de2e8af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646800749915,
+        "stop" : 1646800749915,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "7ed353bd08381016",
+        "reportUrl" : "http://localhost:8080/job/Python001/9/allure/#testresult/7ed353bd08381016",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646800749915,
+          "stop" : 1646800749915,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4530daed996415aa.json",
+  "parameterValues" : [ ]
+}
